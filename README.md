@@ -1,16 +1,17 @@
-# agora_test
+# agora_test POC
 
-A new Flutter project.
+Implementation of a video call with Agora
 
-## Getting Started
+## Documentation
 
-This project is a starting point for a Flutter application.
+Agora rtc engine 
 
-A few resources to get you started if this is your first Flutter project:
+- [Video reference implementation](https://www.youtube.com/watch?v=ULgX_Xt2NrY&ab_channel=TheCSGuy)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Agora docs](https://docs.agora.io/en/Voice/API%20Reference/flutter/v4.0.5/index.html)
+  
+- [Permission handler - config permissions for Android and iOS](https://pub.dev/documentation/permission_handler/latest/)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Run the app](https://docs.agora.io/en/Video/run_demo_video_call_android?platform=Android)
+  
+- [Agora example Repository](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart)
